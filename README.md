@@ -7,7 +7,7 @@ All summarization happens on-device and doesn't require internet access, unless 
 
 The app uses abstractive summary to achieve its goals. Firstly, we will perform data processing which will aid in filtering unnecessary characters or sentences from the data set, tokenizing articles into words and creating word embedding’s using Tensorflow lite to represent the words in a numeric manner. The architecture of the model will involve a sequence to sequence model which is available on Tensor flow lite. The data will then be trained and tested on google cloud AI platform.
 
-<img src="images/apks/Screenshot_2019-12-03-01-32-26.png" width=200 height =300> <img src="images/nutshell.PNG" width=200 height =300> <img src="images/summary.PNG" width=200 height =300>
+<img src="images/nutshell.PNG" width=200 height =300> <img src="images/Screenshot_2019-12-03-01-32-26.png" width=200 height =300>  <img src="images/summary.PNG" width=200 height =300>
 
 
 
