@@ -1,4 +1,4 @@
-# Live-summary
+# In a nutshell
 In our everyday lives it is common to be faced with the need to summarize information. Whether we are studying for a test, trying to catch up with news, or reading blogs and articles on the internet it would be very helpful if we could compress all that information into just a few paragraphs without losing meaning or context. Furthermore, with all the information we are overwhelmed with on a daily basis, we would find a summarizing tool to be valuable in helping us grasp the gist of huge source of text.
 
  Nutshell is a mobile application that leverages on device machine learning to accurately summarize information. Users can import a document or copy paste text into the Nutshell text summarizer and the app will deliver an accurate summary in a compressed form.
