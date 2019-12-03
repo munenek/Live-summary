@@ -10,4 +10,12 @@ The app uses abstractive summary to achieve its goals. Firstly, we will perform 
 <img src="images/nutshell.PNG" width=200 height =300>     <img src="images/Screenshot_2019-12-03-01-32-26.png" width=200 height =300>             <img src="images/summary.PNG" width=200 height =300>
 
 
+#My Summarized Story
+Let me tell you a story of a boy who set out to write algorithms to make consuming information easier by summarizing text automatically using algorithms. I started writing android apps in 2015 when I started college. I am currently a final year Student taking Electrical and Electronic Engineering at Jomo Kenyatta University. I have interest in machine learning and Mobile app development and I have done a couple of projects as well as gotten invitations to attended conferences on AI including Deep Learning Indaba held in Nairobi this year. I am currently a Google Africa scholar and facilitator awaiting an Associate Android developer certification. More about me can be found on my Linkedin as well as Github. 
+I have worked on various project on Machine learning and android app development on an individual level and as part of a team:
+Lead developer of Teketeke – A mobile application that leveraged on device machine learning to perform barcode scanning for a self-checkout in supermarkets
+•	Research Assistant at Jomo Kenyatta University (Department of Electrical and Electronic Engineering)- I am currently building an Optimal Design of Power Scheduling/ load shedding using Artificial Neural Network in an Isolated Power System.
+•	Second runners up: Zindi Hackathon (Nairobi)-Traffic jam: Predicting people’s movement in Nairobi
+•	Technical mentor of the winning team in Teens in AI hackathon held during the deep learning Indaba in Nairobi
+
 
